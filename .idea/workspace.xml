@@ -12,7 +12,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f14dc027-406e-42f1-b92f-bac586f6f608" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_repo" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +22,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/my_repo" />
   </component>
   <component name="ProjectId" id="1ftVgzmyzyJuUqR6fYqIAiFZUDJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -34,7 +33,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/my_repo" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -64,7 +63,7 @@
       <workItem from="1597227096652" duration="74000" />
       <workItem from="1597227177889" duration="252000" />
       <workItem from="1597227460540" duration="76000" />
-      <workItem from="1597227672916" duration="1742000" />
+      <workItem from="1597227672916" duration="2403000" />
     </task>
     <servers />
   </component>
